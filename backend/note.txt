@@ -1,0 +1,10 @@
+note about this project
+
+monday apr 01 2024
+we are at 32.23 on the youtube video
+now at 1:08:49 
+now at 1:31:22 yes!!!
+now at 1:53 the deployement starts
+
+
+this is the link to github https://github.com/techwithtim/Django-React-Full-Stack-App/tree/main
